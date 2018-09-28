@@ -1,0 +1,6 @@
+name: Google Tasks Module
+description: Creates a page showing "Google Tasks".
+package: Custom
+
+type: module
+core: 8.x

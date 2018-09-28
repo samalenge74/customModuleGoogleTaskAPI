@@ -1,0 +1,7 @@
+google_tasks.form:
+ path: '/google_tasks/my-form'
+ defaults:
+   _title: 'Add Task Form'
+   _form: '\Drupal\google_tasks\Form\GoogleTasksForm'
+ requirements:
+   _permission: 'access content'
